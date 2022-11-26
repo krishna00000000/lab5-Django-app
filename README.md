@@ -1,2 +1,2 @@
-# lab5-Django-app
-Software Architect and Design
+# -Software-Architect-and-Design_Week-5
+Django app
